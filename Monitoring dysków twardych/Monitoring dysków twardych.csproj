@@ -176,6 +176,11 @@
   <ItemGroup>
     <Content Include="drive-harddisk-3.ico" />
     <Content Include="favicon.ico" />
+    <Content Include="HardDisk1.png" />
+    <Content Include="HardDisk2.png" />
+    <Content Include="HardDisk3.png" />
+    <Content Include="HardDisk4.png" />
+    <Content Include="HardDisk5.png" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
